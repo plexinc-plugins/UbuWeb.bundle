@@ -1,5 +1,3 @@
-# PMS plugin framework
-
 import re
 ####################################################################################################
 
@@ -12,13 +10,13 @@ FILM_PAGE = 'http://www.ubuweb.com/film'
 AUDIO_PAGE = 'http://www.ubuweb.com/sound'
 RADIO_URL = 'http://ubustream.wfmu.org:80/'
 
-NAME = L('Title')
+NAME = 'UbuWeb'
 
 ART           = 'art-default.jpg'
 ICON          = 'icon-default.png'
-RADIO         = 'radio.png'
-RSS           = 'rss.png'
-SEARCH        = 'search.png'
+RADIO         = 'icon-radio.png'
+RSS           = 'icon-rss.png'
+SEARCH        = 'icon-search.png'
 
 ####################################################################################################
 
